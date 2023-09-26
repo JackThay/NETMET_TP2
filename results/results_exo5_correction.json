@@ -1,0 +1,206 @@
+[
+    {
+        "measurement_id": [
+            60361296
+        ],
+        "measurement_description": {
+            "definitions": [
+                {
+                    "target": "217.14.49.198",
+                    "af": 4,
+                    "packets": 3,
+                    "size": 48,
+                    "tags": [
+                        "netmethr"
+                    ],
+                    "description": "Netmet",
+                    "resolve_on_probe": false,
+                    "skip_dns_check": true,
+                    "include_probe_id": false,
+                    "port": 80,
+                    "type": "traceroute",
+                    "protocol": "ICMP"
+                }
+            ],
+            "probes": [
+                {
+                    "value": 3775,
+                    "type": "probes",
+                    "requested": 1
+                }
+            ],
+            "is_oneoff": true,
+            "bill_to": "hugorimlinger4@gmail.com"
+        }
+    },
+    {
+        "measurement_id": [
+            60361299
+        ],
+        "measurement_description": {
+            "definitions": [
+                {
+                    "target": "46.188.94.122",
+                    "af": 4,
+                    "packets": 3,
+                    "size": 48,
+                    "tags": [
+                        "netmethr"
+                    ],
+                    "description": "Netmet",
+                    "resolve_on_probe": false,
+                    "skip_dns_check": true,
+                    "include_probe_id": false,
+                    "port": 80,
+                    "type": "traceroute",
+                    "protocol": "UDP"
+                }
+            ],
+            "probes": [
+                {
+                    "value": 3944,
+                    "type": "probes",
+                    "requested": 1
+                }
+            ],
+            "is_oneoff": true,
+            "bill_to": "hugorimlinger4@gmail.com"
+        }
+    },
+    {
+        "measurement_id": [
+            60361307
+        ],
+        "measurement_description": {
+            "definitions": [
+                {
+                    "target": "5.140.159.66",
+                    "af": 4,
+                    "packets": 3,
+                    "size": 48,
+                    "tags": [
+                        "netmethr"
+                    ],
+                    "description": "Netmet",
+                    "resolve_on_probe": false,
+                    "skip_dns_check": true,
+                    "include_probe_id": false,
+                    "port": 34543,
+                    "type": "traceroute",
+                    "protocol": "ICMP"
+                }
+            ],
+            "probes": [
+                {
+                    "value": 682,
+                    "type": "probes",
+                    "requested": 1
+                }
+            ],
+            "is_oneoff": true,
+            "bill_to": "hugorimlinger4@gmail.com"
+        }
+    },
+    {
+        "measurement_id": [
+            60362821
+        ],
+        "measurement_description": {
+            "definitions": [
+                {
+                    "target": "77.236.64.30",
+                    "af": 4,
+                    "packets": 3,
+                    "size": 48,
+                    "tags": [
+                        "netmethr"
+                    ],
+                    "description": "Netmet",
+                    "resolve_on_probe": false,
+                    "skip_dns_check": true,
+                    "include_probe_id": false,
+                    "port": 34543,
+                    "type": "traceroute",
+                    "protocol": "ICMP"
+                }
+            ],
+            "probes": [
+                {
+                    "value": 3963,
+                    "type": "probes",
+                    "requested": 1
+                }
+            ],
+            "is_oneoff": true,
+            "bill_to": "hugorimlinger4@gmail.com"
+        }
+    },
+    {
+        "measurement_id": [
+            60364577
+        ],
+        "measurement_description": {
+            "definitions": [
+                {
+                    "target": "5.144.124.55",
+                    "af": 4,
+                    "packets": 3,
+                    "size": 48,
+                    "tags": [
+                        "netmethr"
+                    ],
+                    "description": "Netmet",
+                    "resolve_on_probe": false,
+                    "skip_dns_check": true,
+                    "include_probe_id": false,
+                    "port": 34543,
+                    "type": "traceroute",
+                    "protocol": "ICMP"
+                }
+            ],
+            "probes": [
+                {
+                    "value": 4158,
+                    "type": "probes",
+                    "requested": 1
+                }
+            ],
+            "is_oneoff": true,
+            "bill_to": "hugorimlinger4@gmail.com"
+        }
+    },
+    {
+        "measurement_id": [
+            60364610
+        ],
+        "measurement_description": {
+            "definitions": [
+                {
+                    "target": "2.57.38.4",
+                    "af": 4,
+                    "packets": 3,
+                    "size": 48,
+                    "tags": [
+                        "netmethr"
+                    ],
+                    "description": "Netmet",
+                    "resolve_on_probe": false,
+                    "skip_dns_check": true,
+                    "include_probe_id": false,
+                    "port": 34543,
+                    "type": "traceroute",
+                    "protocol": "ICMP"
+                }
+            ],
+            "probes": [
+                {
+                    "value": 289,
+                    "type": "probes",
+                    "requested": 1
+                }
+            ],
+            "is_oneoff": true,
+            "bill_to": "hugorimlinger4@gmail.com"
+        }
+    }
+]
